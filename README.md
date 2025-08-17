@@ -1,4 +1,4 @@
-# Hello, I’m Prathmesh 👨‍💻 🇮🇳
+# Hello, I’m Prathmesh from 🇮🇳
 
 💡 Exploring the intersection of **Software Engineering & AI** | Backend | Cloud | ML  
 
